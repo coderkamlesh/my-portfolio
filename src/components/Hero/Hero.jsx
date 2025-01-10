@@ -9,8 +9,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Kamlesh</h1>
         <p className={styles.description}>
           I'm a Full-stack software developer with expertise in front-end and
-          back-end development using MERN. Reach out if you'd like to learn
-          more!
+          back-end development. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:coderkamlesh68@gmail.com" className={styles.contactBtn}>
           Contact Me

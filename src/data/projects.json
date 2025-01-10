@@ -1,26 +1,44 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "The Wild Oasis | Booking App",
+    "imageSrc": "projects/wild-oasis.png",
+    "description": "This is a project made to learn the Spring boot for backend and next.js for frontend.",
+    "skills": [
+      "Spring",
+      "Spring Boot",
+      "React",
+      "Next"
+    ],
+    "demo": "https://wild-oasis-two-olive.vercel.app/",
+    "source_frontend": "https://github.com/coderkamlesh/wild-oasis-client",
+    "source_backend": "https://github.com/coderkamlesh/wild-oasis-rest"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "The Wild Oasis | Booking App",
+    "imageSrc": "projects/wild-oasis.png",
+    "description": "This is a project made to learn the Spring boot for backend and next.js for frontend.",
+    "skills": [
+      "Spring",
+      "Spring Boot",
+      "React",
+      "Next"
+    ],
+    "demo": "https://wild-oasis-two-olive.vercel.app/",
+    "source_frontend": "https://github.com/coderkamlesh/wild-oasis-client",
+    "source_backend": "https://github.com/coderkamlesh/wild-oasis-rest"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "The Wild Oasis | Booking App",
+    "imageSrc": "projects/wild-oasis.png",
+    "description": "This is a project made to learn the Spring boot for backend and next.js for frontend.",
+    "skills": [
+      "Spring",
+      "Spring Boot",
+      "React",
+      "Next"
+    ],
+    "demo": "https://wild-oasis-two-olive.vercel.app/",
+    "source_frontend": "https://github.com/coderkamlesh/wild-oasis-client",
+    "source_backend": "https://github.com/coderkamlesh/wild-oasis-rest"
   }
 ]
